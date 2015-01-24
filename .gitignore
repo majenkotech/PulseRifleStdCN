@@ -1,0 +1,4 @@
+*.lss
+*.hex
+build
+backup

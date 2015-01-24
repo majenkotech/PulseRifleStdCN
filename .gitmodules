@@ -1,0 +1,9 @@
+[submodule "libraries/DebouncedInput"]
+	path = libraries/DebouncedInput
+	url = git@github.com:MajenkoLibraries/DebouncedInput
+[submodule "libraries/PWMAudio"]
+	path = libraries/PWMAudio
+	url = git@github.com:MajenkoLibraries/PWMAudio
+[submodule "libraries/LEDMux"]
+	path = libraries/LEDMux
+	url = git@github.com:MajenkoLibraries/LEDMux
